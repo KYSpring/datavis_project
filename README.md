@@ -1,5 +1,8 @@
 # datavis_project
 
+诉讼数据可视化项目
+使用vue-cli,echarts,@jiaminghi/data-view,element-ui等搭建
+
 ## Project setup
 ```
 npm install
