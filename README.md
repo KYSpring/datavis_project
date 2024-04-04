@@ -2,6 +2,7 @@
 
 诉讼数据可视化项目
 使用vue-cli,echarts,@jiaminghi/data-view,element-ui等搭建
+<img src="./preview.png">
 
 ## Project setup
 ```
